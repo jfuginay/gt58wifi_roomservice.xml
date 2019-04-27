@@ -4,7 +4,7 @@
   <project name="jfuginay/device_gte-common" path="device/samsung/gte-common" remote="github" revision="master" />
   <project name="jfuginay/device_gt58wifi" path="device/samsung/gt58wifi" remote="github" revision="lineage-16.0" />
   <project name="jfuginay/kernel_msm8916" path="kernel/samsung/msm8916" remote="github" revision="master" />
-  <project name="jfuginay/vendor_gt58wifi" path="vendor/samsung/gt58wifi" remote="github" revision="master" />
+  <project name="jfuginay/android_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-16.0" />
   <project name="jfuginay/hardware_samsung" path="hardware/samsung" remote="github" revision="master" />
   <project name="jfuginay/device_qcom-common" path="device/qcom/common" remote="github" revision="master" />
   <project name="jfuginay/device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="master" />
